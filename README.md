@@ -5,7 +5,7 @@ Selamat datang di repositori GitHub saya! Ini adalah tempat saya menyimpan semua
 
 ## Struktur Proyek
 Repositori ini berisi berbagai proyek yang telah saya kerjakan selama perkuliahan PBO2, termasuk:
-- Tugas individu
+- Tugas individu (Latihan 2 - AplikasiPenghitungUmur)
 - Kode sumber
 
 ## Cara Menggunakan
